@@ -36,7 +36,7 @@
 1. Склонируйте проект:
 
     ```sh
-    git clone https://github.com/your/repository.git
+    https://github.com/tailogs/FileExplorer.git
     ```
     
     ```sh
@@ -57,10 +57,8 @@
 
 ### Запуск приложения
 
-Для запуска приложения используйте команду:
+Для запуска приложения используйте двойной клик по `FileExplorer.jar` файлу или же команду:
 
 ```sh
 java -jar FileExplorer.jar
 ```
-
-Или же двойной клик по иконке приложения
