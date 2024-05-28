@@ -36,7 +36,7 @@
 1. Склонируйте проект:
 
     ```sh
-    https://github.com/tailogs/FileExplorer.git
+    git clone https://github.com/tailogs/FileExplorer.git
     ```
     
     ```sh
